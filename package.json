@@ -1,0 +1,24 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "A beginner nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/devesty/book-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesty/book-api/issues"
+  },
+  "homepage": "https://github.com/devesty/book-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
